@@ -289,6 +289,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
 - [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - `@web/test-runner` integration.
 - [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
+- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework (not yet production-ready).
 
 <hr>
 
